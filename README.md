@@ -3,7 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version "@angular/cli": "^18.0.1",
 
 My [GitHub](https://github.com/igor2000xp/hero-shop/blob/main/package.json)
+
 My [TackBlitz](https://stackblitz.com/~/github.com/igor2000xp/hero-shop)
+
 /Volumes/MacUss/Users/__louvre/mentoring-Poland/My-study-projects/StackBlitz/hero-shop-good-v18/hero-shop
 
 ## Development server
